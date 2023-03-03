@@ -1,0 +1,17 @@
+D:\Practise\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.exe
+D:\Practise\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.deps.json
+D:\Practise\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.runtimeconfig.json
+D:\Practise\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.dll
+D:\Practise\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Weather.Cli.pdb
+D:\Practise\Weather.Cli\Weather.Cli\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.csproj.AssemblyReference.cache
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.AssemblyInfoInputs.cache
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.AssemblyInfo.cs
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.csproj.CoreCompileInputs.cache
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.csproj.CopyComplete
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.dll
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\refint\Weather.Cli.dll
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.pdb
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\Weather.Cli.genruntimeconfig.cache
+D:\Practise\Weather.Cli\Weather.Cli\obj\Debug\net6.0\ref\Weather.Cli.dll
